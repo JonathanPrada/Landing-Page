@@ -1,0 +1,62 @@
+#introduction {
+    background: url(../img/glasses.jpg) no-repeat top center;
+    height: 500px;
+}
+
+#introduction-content {
+    position: relative;
+    top: 170px;
+}
+
+#introduction-content h2, h4{
+    font-family: 'Squada One', cursive;
+    letter-spacing: 4px;
+    color: white;
+    position: relative;
+    top: -30px;
+}
+
+#title{
+    font-family: 'Squada One', cursive;
+    letter-spacing: 4px;
+    font-size: 36px;
+}
+
+#content-middle {
+    background-color: white;
+}
+
+#content-middle img{
+    width: 100%;
+    height: 400px;
+}
+
+#content-middle h2{
+    font-family: 'Squada One', cursive;
+    font-size: 28px;
+}
+
+
+#content {
+    background-color: linen;
+}
+
+#content img{
+    width: 100%;
+    height: 400px;
+}
+
+#content h2{
+    font-family: 'Squada One', cursive;
+    font-size: 28px;
+}
+
+#quote {
+    background: url(../img/quote.jpg) no-repeat top center;
+    height: 200px;
+}
+
+#quote a, h2 {
+    position: relative;
+    top: 50px;
+}
