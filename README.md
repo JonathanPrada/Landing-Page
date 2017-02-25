@@ -29,4 +29,4 @@ Further styling <br>
 
 ## DEMO
 
-Live demo: http://jonathanprada.com/Portfolio/index.html
+Live demo: http://jonathanprada.com/lingolink/index.html
