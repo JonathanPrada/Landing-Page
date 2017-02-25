@@ -8,7 +8,7 @@
     top: 170px;
 }
 
-#introduction-content h2, h4{
+#introduction-content h1, h4{
     font-family: 'Squada One', cursive;
     letter-spacing: 4px;
     color: white;
@@ -20,6 +20,12 @@
     font-family: 'Squada One', cursive;
     letter-spacing: 4px;
     font-size: 36px;
+}
+
+#menu{
+    font-family: 'Squada One', cursive;
+    letter-spacing: 4px;
+    font-size: 18px;
 }
 
 #content-middle {
@@ -36,6 +42,9 @@
     font-size: 28px;
 }
 
+#content-middle hr{
+    border-top: 1px solid #8c8b8b;
+}
 
 #content {
     background-color: linen;
@@ -51,12 +60,37 @@
     font-size: 28px;
 }
 
+#content hr{
+    border-top: 1px solid #8c8b8b;
+}
+
+
 #quote {
     background: url(../img/quote.jpg) no-repeat top center;
     height: 200px;
 }
 
-#quote a, h2 {
+#quote a {
     position: relative;
     top: 50px;
+}
+
+#quote h2 {
+    font-family: 'Squada One', cursive;
+    background-color: black;
+    position: relative;
+    top: 50px;
+    letter-spacing: 4px;
+    color: white;
+}
+
+#footer {
+    background-color: linen;
+    height: 150px;
+}
+
+#footer a, p {
+    position: relative;
+    top: 50px;
+    left: 10px;
 }
