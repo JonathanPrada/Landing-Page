@@ -24,7 +24,9 @@ Open index.html
 
 Device screen sizes <br>
 Multi browser testing <br>
-Quote system <br>
+Quote forms <br>
+Pricing site <br>
+Integrated payments <br>
 Further styling <br>
 
 ## DEMO
